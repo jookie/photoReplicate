@@ -26,7 +26,7 @@ git push
 #    Update the remote URL using the `git remote set-url` command with the correct GitHub repository URL for your empty repository:
 
 #    ```bash
-#    git remote set-url origin https://github.com/jookie/convex-chatgpt.git
+#    git remote set-url origin https://github.com/jookie/photoReplicate.git
 #    ```
 ## git remote add origin <remote_repository_URL>
 
